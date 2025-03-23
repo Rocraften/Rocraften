@@ -2,7 +2,6 @@
 ## Who am I?
 
 Hey, I'm Rocraften. I'm a developer with over 3 years of experience. I enjoy making Minecraft Bedrock and Java addons, developing games, and contributing to the open-source community. I'm also the founder of One World Studio, where I focus on building cool projects and collaborating with others.
-Cool/Showcase
 
 ## Highlights of my work:
 
