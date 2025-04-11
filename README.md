@@ -1,3 +1,5 @@
+![GitHub followers](https://img.shields.io/github/followers/Rocraften?style=flat&logo=apachespark&logoColor=white&label=GitHub%20Followers&labelColor=blue) ![GitHub Sponsors](https://img.shields.io/github/sponsors/Rocraften?style=flat&logo=githubsponsors&label=Sponsors&color=%23EA4AAA) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqE6B2N9FWadOT8HMqtudHg?style=flat&logo=youtube&logoColor=darkred&label=YouTube&labelColor=white&color=darkred&link=https%3A%2F%2Fwww.youtube.com%2F%40RocraftenYT) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Rocraften?style=flat&logo=x&label=Follow%20me%20on%20Twitter!&link=https%3A%2F%2Fx.com%2FRocraften)
+
 # All you need to know.
 ## Who am I?
 
