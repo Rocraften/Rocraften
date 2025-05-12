@@ -31,6 +31,8 @@ PMC: https://www.planetminecraft.com/member/rocraften/
 
 YouTube: https://www.youtube.com/@RocraftenYT
 
+Paypal: You can help me here! paypal.me/RocraftenRocraften
+
 Website: https://rocraften.github.io/
 
 GitHub: You’re already here! Feel free to check out my repos and leave a comment.
